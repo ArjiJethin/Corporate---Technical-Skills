@@ -1,0 +1,19 @@
+1. return true if the given string contains any palindrome substring
+   of length more than 3.
+2. longest substring without repeating characters
+   sample input: abcabccbb
+   output      : abc
+3. find the longest palindrome substring within given substring
+   sample input : babad
+   output       : bab
+4. make a string polindromic by adding the minimum characters
+   sample input : aacecaaa
+   output       : aaacecaaa (a added at front)
+5. count of majority element in an array by booyer moore algorithm.
+   majority element is an element which appears more than half of the
+   array size
+   sample input : {1,2,3,2,2}
+   output       : 2 ( appears more than half of the size )
+6. generate all permutations of the given string 
+   sample input : ab
+   output       : ab, ba
